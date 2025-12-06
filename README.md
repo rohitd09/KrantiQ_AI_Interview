@@ -55,11 +55,11 @@ pip install -r requirements.txt
 
 ### Step 4: Environment Configuration
 
-Create a `.env` file in the root directory if needed:
+Create a `.env` file in the Section 1 directory
 
 ```
 # Example .env file
-# Add any API keys or configuration here
+GOOGLE_API_KEY="[INSERT_GEMINI_API_KEY_HERE]"
 ```
 
 ## Module Documentation
